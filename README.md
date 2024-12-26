@@ -1,5 +1,5 @@
 # 💫 About Me:
--🔭 I’m currently working on improving my skills in Full Stack Development.<br>- 🌱 I’m always learning and open to new opportunities.<br>- 👨‍💻 All of my projects are available at my https://trupti940.github.io/<br>- 💬 Ask me about HTML, CSS , JavaScript , MongoDB , SQL, React, python.<br>- 📫 How to reach me: truptipimpale1999@gmail.com<br>- 📄 Know about my : https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6709217d7ca4c4119e56e3a1<br>- ⚡ Fun fact: I enjoy designing creative web experiences.
+-🔭 I’m currently working on improving my skills in Full Stack Development.<br>- 🌱 I’m always learning and open to new opportunities.<br>- 👨‍💻 All of my projects are available at my https://trupti940.github.io/<br>- 💬 Ask me about HTML, CSS , JavaScript , MongoDB , SQL, React, python.<br>- 📫 How to reach me: truptipimpale1999@gmail.com<br>- 📄 Know about my : https://drive.google.com/file/d/1RLCLsWplC_uwQNspidcP4WkOva8B_Akn/view?usp=sharing<br>- ⚡ Fun fact: I enjoy designing creative web experiences.
 
 
 
